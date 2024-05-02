@@ -1,15 +1,7 @@
 ---
 - summary: |
      Добавление товара в корзину
-  status: fail
-
-- summary: |
-     Добавление товара в корзину
   status: pass
-
-- summary: |
-      Удаление товара из корзины
-  status: fail
 
 - summary: |
       Удаление товара из корзины
