@@ -22,3 +22,7 @@
   - summary: |
      Поиск товара по ключевому слову
   status: pass
+
+- summary: |
+    Перевод языка
+  status: fail
