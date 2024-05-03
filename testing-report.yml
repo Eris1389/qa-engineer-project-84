@@ -6,3 +6,19 @@
 - summary: |
       Удаление товара из корзины
   status: pass
+
+- summary: |
+     Оформление заказа с переходом на страницу оплаты
+  status: fail
+
+  - summary: |
+      Поиск товара  по ценовому диапазону 
+  status: fail
+
+  - summary: |
+    Поиск товара по категориям
+  status: pass
+
+  - summary: |
+     Поиск товара по ключевому слову
+  status: pass
