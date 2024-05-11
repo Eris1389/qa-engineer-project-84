@@ -32,7 +32,6 @@ test-cases:
       Адаптивная верстка
     status: fail
 
----
 bugreports:
 - summary: |
     Нет адаптивной верстки
