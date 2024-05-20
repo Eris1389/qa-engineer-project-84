@@ -75,9 +75,8 @@
     Проверка запрос на сервер при оформлении заказа
   requirement: |
     При оформлении заказ, запрос должен отправляться  на сервер
-  prerequisites: Открываем интернет-магазина в браузере
-    https://hexlet-products-store.vercel.app/cart.Попадаем в корзину.Товар уже
-    есть в корзине
+  prerequisites: 
+    Открываем интернет-магазина в браузере https://hexlet-products-store.vercel.app/cart.Попадаем в корзину.Товар уже есть в корзине
   test-data: |
     empty
   steps:
