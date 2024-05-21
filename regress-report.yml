@@ -34,7 +34,7 @@ test-cases:
   
 - summary: |
     Перевод языка на English
-  status: pass
+  status: fail
 
 - summary: |
     Очистка корзины
@@ -54,6 +54,10 @@ test-cases:
 
 - summary: |
     Проверка интернет-магазина на мобильном устройстве
+  status: fail
+
+- summary: |
+    Проверка запрос на сервер при оформлении заказа
   status: fail
 
 - summary: |
