@@ -1,72 +1,72 @@
 ---
 test-cases:
-- summary: |
-    Добавление товара в корзину  из окна каталога
-  status: pass
-  
-- summary: |
-    Добавление товара в корзину  со страницы товара
-  status: pass
-
-- summary: |
-    Удаление товара из корзины
-  status: pass
-
-- summary: |
-    Поиск товара по категориям
-  status: pass
-
-- summary: |
-    Оформление заказа с переходом на страницу оплаты
-  status: fail
-
-- summary: |
-    Поиск товара по ключевому слову
-  status: pass
-
-- summary: |
-    Поиск товара  по ценовому диапазону 
-  status: fail
-  
-- summary: |
-    Перевод языка на Русский
-  status: fail
-  
-- summary: |
-    Перевод языка на English
-  status: fail
-
-- summary: |
-    Очистка корзины
-  status: pass
-
-- summary: |
-    Добавление нескольких одинаковых товаров в корзину
-  status: pass
-
-- summary: |
-    Добавление нескольких разных товаров в корзину
-  status: pass
-
-- summary: |
-    Проверка интернет-магазина в разных браузерах (Яндекс,Firefox)
-  status: fail
-
-- summary: |
-    Проверка интернет-магазина на мобильном устройстве
-  status: fail
-
-- summary: |
-    Проверка запрос на сервер при оформлении заказа
-  status: fail
-
-- summary: |
-    Проверка запрос на сервер при оформлении заказа
-  status: fail
-
-- summary: |
-    Проверка верстки карточки товара в корзине
-  status: fail
+  - summary: |
+      Добавление товара в корзину  из окна каталога
+    status: pass
+    
+  - summary: |
+      Добавление товара в корзину  со страницы товара
+    status: pass
+    
+  - summary: |
+      Удаление товара из корзины
+    status: pass
+    
+  - summary: |
+      Поиск товара по категориям
+    status: pass
+    
+  - summary: |
+      Оформление заказа с переходом на страницу оплаты
+    status: fail
+    
+  - summary: |
+      Поиск товара по ключевому слову
+    status: pass
+    
+  - summary: |
+      Поиск товара  по ценовому диапазону 
+    status: fail
+    
+  - summary: |
+      Перевод языка на Русский
+    status: fail
+    
+  - summary: |
+      Перевод языка на English
+    status: fail
+    
+  - summary: |
+      Очистка корзины
+    status: pass
+    
+  - summary: |
+      Добавление нескольких одинаковых товаров в корзину
+    status: pass
+    
+  - summary: |
+      Добавление нескольких разных товаров в корзину
+    status: pass
+    
+  - summary: |
+      Проверка интернет-магазина в разных браузерах (Яндекс,Firefox)
+    status: fail
+    
+  - summary: |
+      Проверка интернет-магазина на мобильном устройстве
+    status: fail
+    
+  - summary: |
+      Проверка запрос на сервер при оформлении заказа
+    status: fail
+    
+  - summary: |
+      Проверка запрос на сервер при оформлении заказа
+    status: fail
+    
+  - summary: |
+      Проверка верстки карточки товара в корзине
+    status: fail
 
 bugreports:
 - summary: |
