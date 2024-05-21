@@ -60,7 +60,7 @@
   requirement: |
     Пользователь может оформить заказ с переходом на страницу оплаты
   prerequisites:
-    Открываем интернет-магазина в браузере https://hexlet-products-store.vercel.app/cart.Попадаем в корзину.Товар уже есть в корзине
+    Открываем страницу интернет-магазина в браузере https://hexlet-products-store.vercel.app/cart.Попадаем в корзину.Товар уже есть в корзине
   test-data: |
     empty
   steps:
