@@ -33,7 +33,7 @@
   
 - summary: |
     Перевод языка на English
-  status: pass
+  status: fail
 
 - summary: |
     Очистка корзины
